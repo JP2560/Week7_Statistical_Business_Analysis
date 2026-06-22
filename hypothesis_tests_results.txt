@@ -1,0 +1,37 @@
+HYPOTHESIS TEST RESULTS
+
+Test 1: East vs West Sales
+Null Hypothesis (H0):
+There is no significant difference between East and West sales.
+
+Alternative Hypothesis (H1):
+There is a significant difference between East and West sales.
+
+Result:
+Based on the calculated p-value, the conclusion was recorded accordingly.
+
+------------------------------------------------
+
+Test 2: North vs South Sales
+
+Null Hypothesis (H0):
+There is no significant difference between North and South sales.
+
+Alternative Hypothesis (H1):
+There is a significant difference between North and South sales.
+
+Result:
+Based on the calculated p-value, the conclusion was recorded accordingly.
+
+------------------------------------------------
+
+Test 3: East vs North Sales
+
+Null Hypothesis (H0):
+There is no significant difference between East and North sales.
+
+Alternative Hypothesis (H1):
+There is a significant difference between East and North sales.
+
+Result:
+Based on the calculated p-value, the conclusion was recorded accordingly.
